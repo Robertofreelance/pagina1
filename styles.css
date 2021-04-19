@@ -1,0 +1,80 @@
+.text-low {
+    font-size: 0.8rem;
+}
+
+@media (min-width: 994px) {
+    #img-hidden {
+        display: none;
+    }
+}
+.higher {
+    font-size: 1.3rem;
+}
+#img-no-hidden {
+    display: none;
+}
+img {
+    width: 100%;
+}
+.low-img {
+    width: 50px;
+    height: auto;
+}
+.icon {
+    font-size: 5em;
+    color: #00b3a7;
+}
+.start {
+    background-color: #f2f4ff;
+    box-shadow: 0px 11px 10px 2px rgb(207 202 202);
+}
+.first {
+    border-top-right-radius: 1rem !important;
+    border-top-left-radius: 1rem !important;
+}
+.last {
+    border-bottom-right-radius: 1rem !important;
+    border-bottom-left-radius: 1rem !important;
+    box-shadow: 0px 8px 10px 2px rgb(207 202 202) !important;
+
+}
+.radius-top {
+    border-top-right-radius: 10rem !important;
+    border-top-left-radius: 10rem !important;
+}
+.hundred {
+    width: 100%;
+}
+.text-super-low {
+    font-size: 0.6em;
+}
+.radius-bottom {
+    border-bottom-right-radius: 10rem !important;
+    border-bottom-left-radius: 10rem !important;
+}
+
+.radius-top-section-4 {
+    border-top-right-radius: 2rem !important;
+    border-top-left-radius: 2rem !important;
+}
+.radius-bottom-section-4 {
+    border-bottom-right-radius: 2rem !important;
+    border-bottom-left-radius: 2rem !important;
+}
+.bg-darkblue {
+    background: radial-gradient(#354697, #1c244d);
+}
+.bg-darkcian {
+    background: radial-gradient(#00b3a7, #014e49);
+}
+.bordered {
+    border: 1px solid rgba(0, 0, 0, 0.125);
+}
+.bg-cian {
+    background: #00b3a7;
+}
+@media (min-width: 994px) {
+    #img-no-hidden {
+        display: flex;
+    }
+}
