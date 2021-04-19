@@ -39,8 +39,8 @@ img {
 
 }
 .radius-top {
-    border-top-right-radius: 10rem !important;
-    border-top-left-radius: 10rem !important;
+    border-top-right-radius: 5rem !important;
+    border-top-left-radius: 5rem !important;
 }
 .hundred {
     width: 100%;
@@ -49,8 +49,8 @@ img {
     font-size: 0.6em;
 }
 .radius-bottom {
-    border-bottom-right-radius: 10rem !important;
-    border-bottom-left-radius: 10rem !important;
+    border-bottom-right-radius: 5rem !important;
+    border-bottom-left-radius: 5rem !important;
 }
 
 .radius-top-section-4 {
